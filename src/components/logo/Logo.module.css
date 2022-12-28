@@ -1,0 +1,6 @@
+@import '../../styles/colors.scss';
+.logo-container {
+  display: block;
+  width: 20%;
+  max-width: 65px;
+}
